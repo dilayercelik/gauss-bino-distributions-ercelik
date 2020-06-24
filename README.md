@@ -79,6 +79,8 @@ binomial_example + binomial_2. # returns another Binomial object
 # Author
 Dilay Fidan Ercelik
 
+LinkedIn: [Dilay Fidan Ercelik](https://www.linkedin.com/in/dilay-fidan-ercelik-682675194/)
+
 # Acknowledgment
 This package was put together thanks to the lessons provided at Udacity - Machine Learning Foundations Free Course.
 
