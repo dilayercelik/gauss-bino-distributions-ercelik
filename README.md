@@ -1,7 +1,7 @@
 # gauss-bino-distributions-ercelik
 
 # About
-This is a Python package, In this package you can calculate Binomial and Gaussian distributions with given data, and the probability distribution functions associated with Gaussian and Binomial distributions (PDF). 
+This is a Python package with which you can calculate Binomial and Gaussian distributions with given data, and the probability distribution functions associated with Gaussian and Binomial distributions (PDF). 
 
 It can be used to plot graphs (histogram, bar chart) associated with the probability disributions and the probability density distributions.
 
