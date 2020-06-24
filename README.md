@@ -1,8 +1,5 @@
 # gauss-bino-distributions-ercelik
 
-# gauss-bino-distributions
-
-
 # Files
 setup.py - file necessary for pip installing
 
