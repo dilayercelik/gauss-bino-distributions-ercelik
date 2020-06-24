@@ -5,9 +5,9 @@ This is a Python package with which you can calculate Binomial and Gaussian dist
 
 It can be used to plot graphs (histogram, bar chart) associated with the probability disributions and the probability density distributions.
 
-See the Usage section for an example usage.
+-> See the Usage section for an example usage.
 
-See gauss-bino-distributions-ercelik in [Pypi](https://pypi.org/project/gauss-bino-distributions-ercelik/)
+-> See gauss-bino-distributions-ercelik in [Pypi](https://pypi.org/project/gauss-bino-distributions-ercelik/)
 
 # Files
 setup.py - file necessary for pip installing
