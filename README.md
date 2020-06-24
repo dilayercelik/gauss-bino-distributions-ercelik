@@ -7,6 +7,8 @@ It can be used to plot graphs (histogram, bar chart) associated with the probabi
 
 See the Usage section for an example usage.
 
+See gauss-bino-distributions-ercelik in [Pypi](https://pypi.org/project/gauss-bino-distributions-ercelik/)
+
 # Files
 setup.py - file necessary for pip installing
 
