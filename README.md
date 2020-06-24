@@ -69,4 +69,4 @@ Dilay Fidan Ercelik
 This package was put together thanks to the lessons provided at Udacity - Machine Learning Foundations Free Course.
 
 # License
-MIT License - see license.txt
+MIT License - see [LICENSE.txt](https://github.com/dilayercelik/gauss-bino-distributions-ercelik/blob/master/LICENSE.txt)
