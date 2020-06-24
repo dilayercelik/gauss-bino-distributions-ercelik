@@ -27,13 +27,13 @@ This package requires:
 ## Install with pip:
 
 ```bash
-pip install gauss-bino-distributions-ercelik`
+pip install gauss-bino-distributions-ercelik
 ```
 
 ## To upgrade the package:
 
 ```bash
-pip install gauss-bino-distributions-ercelik --upgrade`
+pip install gauss-bino-distributions-ercelik --upgrade
 ```
 
 # Usage
