@@ -20,7 +20,7 @@ This package requires:
 
 - matplotlib package
 
-- math package
+- math Python package
 
 
 # Installation
